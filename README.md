@@ -3,7 +3,8 @@
 </p>
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 <h3 align="center">A passionate Data Science Student</h3>
-
+  <img align="right" alt="Animated Coder" width="350" src="https://github.com/imaadiiii/imaadiiii/blob/main/coder_animated.gif?raw=true">
+  <p align="left">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imaadiiii&label=Profile%20views&color=0e75b6&style=flat" alt="imaadiiii" /> </p>
 

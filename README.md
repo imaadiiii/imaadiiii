@@ -10,7 +10,7 @@
 
 <ul>
     <li>🔭 I’m currently working on <a href="https://github.com/imaadiiii/Text-Summarizer.git" target="_blank">Text-Summarizer-Project</a></li>
-    <li>🌱 I’m currently learning Machine Learning and Web Development</li>
+    <li>🌱 I’m currently learning data analytics, Machine Learning and Web Development</li>
     <li>💬 Ask me about Machine learning</li>
     <li>📫 How to reach me: <a href="adityaraj006005@gmail.com">adityaraj006005@gmail.com</a></li>
     <li>⚡ Fun fact: I love to do Analytics</li>
